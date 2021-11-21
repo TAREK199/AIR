@@ -42,3 +42,45 @@ Hibernate is one of the most popular Java ORM frameworks in use today. Its first
 * __MAVEN__ 
 * __REST API__ 
 
+
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/sping.jpg?raw=true) 
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/2.png?raw=true)
+
+## ScreenShots:
+
+### Project Structure:
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/s1.png?raw=true)
+
+### POM(Maven file):
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/s2.png?raw=true)
+
+### Model:
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/s3.png?raw=true)
+
+### Service:
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/s4.png?raw=true)
+
+### Controller:
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/s5.png?raw=true)
+
+## Some results (JSON):
+### GET METHOD:
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/s6.png?raw=true)
+
+### POST METHOD:
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/s7.png?raw=true)
+
+### PUT METHOD:
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/s8.png?raw=true)
+
+### DELETE METHOD:
+![](https://github.com/TAREK199/AIR/blob/master/tp3%204%205/images/s9.png?raw=true)
+
+
+
+
+
+
+
+
+
